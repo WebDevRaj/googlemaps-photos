@@ -1,4 +1,4 @@
-# Replace API_KEY with flickr api key and MAPS_API_KEY with google maps api key
+# Assign API_KEY with flickr api key and MAPS_API_KEY with google maps api key
 
 # Getting Started with Create React App
 
